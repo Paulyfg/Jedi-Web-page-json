@@ -6,5 +6,43 @@
       "email": "pau@gmail.com",
       "password": "hola"
     }
+  ],
+  "cards": [
+    {
+        "image": "https://nationaltoday.com/wp-content/uploads/2019/08/national-black-cat-appreciation-day.jpg",
+        "name": "Kuro",
+        "genre": "Female",
+        "age": "7 years"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1577980906127-4ea7faa2c6f0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+      "name": "Leo",
+      "genre": "Male",
+      "age": "2 years"    
+    },
+    {
+      "image": "https://www.thesprucepets.com/thmb/IYaG0ElLFoOJ26Rtp-5CpefS0Jw=/1459x1459/smart/filters:no_upscale()/twenty20_e47b3798-dd9b-40b1-91ef-1d820337966e-5aa3f798642dca00363b0df1.jpg",
+      "name": "Tina",
+      "genre": "Female",
+      "age": "1 year"    
+    },
+    {
+      "image": "https://i2.wp.com/www.poochncat.com/wp-content/uploads/2020/08/gray-cat.jpg?fit=660%2C660&ssl=1",
+      "name": "Pluto",
+      "genre": "Male",
+      "age": "5 years"    
+    },
+    {
+      "image": "https://d.newsweek.com/en/full/1802013/two-cats.jpg?w=1600&h=1600&q=88&f=5def3b9616014a538a0b4493717b19f7",
+      "name": "Thor & Loki",
+      "genre": "Males",
+      "age": "3 years"    
+    },
+    {
+      "image": "http://www.opsopet.com/wp-content/uploads/2017/06/Siamese-Cat-600x600.jpg",
+      "name": "Gary",
+      "genre": "Female",
+      "age": "1 year"    
+    }
   ]
 }
